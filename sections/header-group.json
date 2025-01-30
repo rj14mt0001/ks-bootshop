@@ -92,10 +92,35 @@
         "border_opacity": 100,
         "shadow": "shadow-sm"
       }
+    },
+    "html_KDHLp4": {
+      "type": "html",
+      "custom_css": [],
+      "settings": {
+        "liquid": "<div class=\"product-slider\">\n    <div class=\"slider\">\n        <div class=\"slide\"><img src=\"{{ 'your-image-url.jpg' }}\" alt=\"Product 1\"></div>\n        <div class=\"slide\"><img src=\"{{ 'your-image-url.jpg' }}\" alt=\"Product 2\"></div>\n        <div class=\"slide\"><img src=\"{{ 'your-image-url.jpg' }}\" alt=\"Product 3\"></div>\n        <div class=\"slide\"><img src=\"{{ 'your-image-url.jpg' }}\" alt=\"Product 4\"></div>\n    </div>\n</div>",
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-body",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "container": "",
+        "container_max_width": "",
+        "text_align": "text-center",
+        "header_title": "",
+        "header_title_font_size": "h2",
+        "header_description": "",
+        "header_description_font_size": "fs-md",
+        "pt": 10,
+        "pb": 10
+      }
     }
   },
   "order": [
     "announcement_bar_Ge9W3V",
-    "navbar"
+    "navbar",
+    "html_KDHLp4"
   ]
 }
